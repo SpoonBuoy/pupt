@@ -3,7 +3,7 @@
 * Node JS
 * Chrome Browser
  ### Set up Locally
- >Clone : ` git@github.com:SpoonBuoy/pupt.git` <br>
+ >Clone : _`git clone git@github.com:SpoonBuoy/pupt.git`_<br>
  >_cd pupt_ <br>
  _npm install_
 
